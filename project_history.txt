@@ -1,0 +1,11 @@
+Who: Ball
+When: 07/09
+What: OpenRefine cleaning - see cleaning_stages/1_openrefine for more
+
+Who: Brayden
+When: 07/11
+What: split tracks colum into seperate table as well as removing tracks that were whitespace
+
+Who: Brayden
+When: 07/18
+What: repaired genre and category columns. basic check for if one of the columns was blank or 'Data' and used the other good column to replace bad value
