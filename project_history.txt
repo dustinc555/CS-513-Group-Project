@@ -9,3 +9,7 @@ What: split tracks colum into seperate table as well as removing tracks that wer
 Who: Brayden
 When: 07/18
 What: repaired genre and category columns. basic check for if one of the columns was blank or 'Data' and used the other good column to replace bad value
+
+Who: Dustin & Brayden
+When: 07/23
+What: Year repair work using spotipy api. was able to repair about 2500 albumns. Dustin did a lot of the heavy work and Brayden did more debugging and processing time work
