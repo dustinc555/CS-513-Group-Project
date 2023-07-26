@@ -1,4 +1,4 @@
-artist	category	genre	title	tracks	year	id
+artist	category	genre	title	album id	year	id
 Backstreet Boys	Blues	Pop	Millennium	1000	1999	10000
 No Return	Data	Data	Self Mutilation	1002	2019	100002
 Emanuel	Classic Portuguese Pop	Classic Portuguese Pop	Felicidade	1004	1998	100004
@@ -842,7 +842,6 @@ Ornette Coleman	Jazz	Jazz	Beauty Is A Rare Thing [disc 3]	2130	1960	101162
 Motã¶rhead	Jazz	Heavy Metal	Iron Fist	2133	1987	101165
 Miles Davis	Jazz	Jazz	Birth Of The Cool	2134	1949	101166
 Varios Artistas	Jazz	Blues	Musica De Navidad	2135	1998	101167
-Various	Jazz	Jazz	Bar Musik Vol. 2	2136	2005	101168
 Clifford Brown	Jazz	Jazz	Memorial Album	2138	2001	101170
 Bud Powell	Jazz	Jazz	Bud In Paris	2139	1975	101171
 Sarah Jane Morris	Jazz	Jazz	Love Pain	2140	2003	101172
@@ -874,6 +873,7 @@ Ellis Larkins	Jazz	Jazz	In An Ellington Mood - Do Nothin' 'til You Hear From Me	
 The Jazztown Trio	Jazz	Easy Listening	Sax & Seduction Vol 2	2174	2000	101205
 Ella Fitzgerald	Jazz	Jazz	Private Collections	2175	1954	101206
 Scott Williamson Jazz Quartet	Jazz	Jazz	Deck The Halls	2177	1998	101208
+Cyrus Chestnut	Jazz	Jazz	Earth Stories	2178	1996	101209
 Jeanne Lee & Ran Blake	Jazz	Jazz	The Legendary Duets	2179	1961	101210
 Duke Ellington	Jazz	Jazz	12 Classics	2180	2002	101211
 Susannah Mccorkle	Jazz	Jazz	No More Blues	2181	1989	101212
