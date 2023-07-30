@@ -20,6 +20,14 @@ There is no stage 1 or stage 6 notebook because for these stages we used OpenRef
 
 There is an integrity constraints playbook in the `notebooks` directory. This is the playbook that we take the final stage and run against to prove our data is fit for use.
 
+### workflow diagrams
+
+There is a fodler containing our project inner and outer workflows. The outer workflow is a diagram and the inner workflow is a step-by step textual description.
+
+### final result
+
+This folder contains are final two datasets after all the cleaning has been performed.
+
 ## Development
 `docker build . -t cs513`
 
